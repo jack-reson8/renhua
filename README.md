@@ -6,14 +6,25 @@ AI 写的中文一眼就能认出来：emoji 清单、排比、金句升华、"�
 
 | 文件 | 内容 |
 |---|---|
-| `SKILL.md` | 他怎么说话、必须删掉的 8 类 AI 味、5 步写作流程、平台差异、AI 味 vs 人话对照 |
-| `references/examples.md` | 小红书真实爆款标题按结构分类（反差自嘲 / 身份+挑战+期限 / 做了个X实测 / 一句话梗），大学生口吻 vs 科技自媒体口吻 |
-| `references/insight.md` | 核心洞察和金句的写法：主题句首尾呼应、结果先行、段尾金句的六种形状、有数据撑着的洞察段（从一份被认可的转正答辩稿里拆出来） |
-| `references/humor.md` | 17 个网感手法：量子位、差评、CZ、孙宇晨、曾颖、邵艾伦、levelsio、Marc Lou、半佛仙人、王登科、和菜头的句式，每个附一个我们自己写的例子 |
+| `plugins/renhua/skills/renhua/SKILL.md` | 他怎么说话、必须删掉的 8 类 AI 味、5 步写作流程、平台差异、AI 味 vs 人话对照 |
+| `…/references/examples.md` | 小红书真实爆款标题按结构分类（反差自嘲 / 身份+挑战+期限 / 做了个X实测 / 一句话梗），大学生口吻 vs 科技自媒体口吻 |
+| `…/references/insight.md` | 核心洞察和金句的写法：主题句首尾呼应、结果先行、段尾金句的六种形状、有数据撑着的洞察段（从一份被认可的转正答辩稿里拆出来） |
+| `…/references/humor.md` | 17 个网感手法：量子位、差评、CZ、孙宇晨、曾颖、邵艾伦、levelsio、Marc Lou、半佛仙人、王登科、和菜头的句式，每个附一个我们自己写的例子 |
 
 ## 安装
+
+**Claude Code 插件（推荐）**
+
 ```bash
-git clone https://github.com/jack-reson8/renhua ~/.claude/skills/renhua
+claude plugin marketplace add jack-reson8/renhua
+claude plugin install renhua@renhua
+```
+
+**普通 skill**
+
+```bash
+git clone https://github.com/jack-reson8/renhua
+cp -R renhua/plugins/renhua/skills/renhua ~/.claude/skills/
 ```
 
 ## 想换成你自己的口吻

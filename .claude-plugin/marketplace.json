@@ -1,0 +1,12 @@
+{
+  "name": "renhua",
+  "description": "人话 renhua: write Chinese posts in a real person's voice, without the AI tells.",
+  "owner": { "name": "jack-reson8" },
+  "plugins": [
+    {
+      "name": "renhua",
+      "source": "./plugins/renhua",
+      "description": "Chinese writing in a real person's voice: strips AI tells (emoji lists, slogans, 不是而是), fluent full sentences, theme line, results first, data-backed insight and one earned 金句; viral Xiaohongshu title library and optional humor patterns."
+    }
+  ]
+}

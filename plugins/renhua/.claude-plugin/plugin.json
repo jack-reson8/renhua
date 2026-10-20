@@ -1,0 +1,9 @@
+{
+  "name": "renhua",
+  "description": "Chinese writing in a real person's voice: strips AI tells (emoji lists, slogans, 不是而是), fluent full sentences, theme line, results first, data-backed insight and one earned 金句; viral Xiaohongshu title library and optional humor patterns.",
+  "version": "1.0.0",
+  "author": { "name": "jack-reson8" },
+  "homepage": "https://github.com/jack-reson8/renhua-repo",
+  "license": "MIT",
+  "keywords": ["chinese", "writing", "copywriting", "xiaohongshu", "rednote", "voice", "de-ai", "social-media"]
+}
