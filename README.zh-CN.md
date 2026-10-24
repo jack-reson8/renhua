@@ -2,6 +2,8 @@
 
 [English](README.md) | 简体中文 | [日本語](README.ja.md) | [한국어](README.ko.md) | [Tiếng Việt](README.vi.md) | [हिन्दी](README.hi.md)
 
+<p align="center"><img src="docs/share.png" alt="renhua: AI-written vs human-written Chinese" width="100%"></p>
+
 **一个 Claude skill：用真人的说话方式写小红书、X、日记、产品介绍、评论回复，去掉 AI 味，再加一点网感和小幽默。**
 
 AI 写的中文一眼就能认出来：emoji 清单、排比、金句升华、"不是……而是……"、万能结尾提问。这个 skill 是从一位独立开发者自己打的 407 句原话里提炼出来的（节奏、常用词、评价方式），你可以换成自己的口吻（见下文）。它还带三份参考资料：

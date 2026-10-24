@@ -2,6 +2,8 @@
 
 [English](README.md) | [简体中文](README.zh-CN.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Tiếng Việt](README.vi.md) | हिन्दी
 
+<p align="center"><img src="docs/share.png" alt="renhua: AI-written vs human-written Chinese" width="100%"></p>
+
 **एक Claude skill जो असली इंसान के लहजे में Xiaohongshu पोस्ट, X पोस्ट, डायरी, प्रोडक्ट कॉपी और कमेंट के जवाब लिखता है: AI वाली छाप हटाता है और थोड़ा इंटरनेट वाला अंदाज़ व हल्का हास्य जोड़ता है।**
 
 ध्यान दें: यह skill **चीनी** भाषा का कंटेंट लिखता है (人话 यानी "आम इंसान की बोली")। यह उन लोगों के काम का है जो चीनी में प्रकाशित करते हैं; यह README बाकी पाठकों के लिए अनुवादित है।

@@ -2,6 +2,8 @@
 
 [English](README.md) | [简体中文](README.zh-CN.md) | [日本語](README.ja.md) | 한국어 | [Tiếng Việt](README.vi.md) | [हिन्दी](README.hi.md)
 
+<p align="center"><img src="docs/share.png" alt="renhua: AI-written vs human-written Chinese" width="100%"></p>
+
 **실제 사람의 말투로 샤오홍슈(Xiaohongshu), X, 일기, 제품 소개, 댓글 답글을 쓰는 Claude skill입니다. AI 티를 지우고, 약간의 인터넷 감성과 유머를 더합니다.**
 
 참고: 이 skill이 쓰는 것은 **중국어** 콘텐츠입니다(人话 = "평범한 사람의 말"). 중국어로 글을 발행하는 분들을 위한 도구이며, 이 README는 그 외의 분들을 위한 번역입니다.

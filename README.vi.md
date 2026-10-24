@@ -2,6 +2,8 @@
 
 [English](README.md) | [简体中文](README.zh-CN.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | Tiếng Việt | [हिन्दी](README.hi.md)
 
+<p align="center"><img src="docs/share.png" alt="renhua: AI-written vs human-written Chinese" width="100%"></p>
+
 **Một Claude skill viết bài Xiaohongshu, bài X, nhật ký, giới thiệu sản phẩm và trả lời bình luận bằng giọng của một người thật: xóa dấu vết AI, thêm chút chất mạng và chút hài hước.**
 
 Lưu ý: skill này viết nội dung **tiếng Trung** (人话 nghĩa là "lời nói bình thường của con người"). Nó hữu ích cho những ai đăng bài bằng tiếng Trung; README này được dịch cho những người còn lại.

@@ -2,6 +2,8 @@
 
 [English](README.md) | [简体中文](README.zh-CN.md) | 日本語 | [한국어](README.ko.md) | [Tiếng Việt](README.vi.md) | [हिन्दी](README.hi.md)
 
+<p align="center"><img src="docs/share.png" alt="renhua: AI-written vs human-written Chinese" width="100%"></p>
+
 **実在の人の話し方で、小紅書（Xiaohongshu）・X・日記・プロダクト紹介・コメント返信を書く Claude skill。AI っぽさを消し、ネットらしいノリと少しのユーモアを足します。**
 
 注意：この skill が書くのは**中国語**のコンテンツです（人話＝「ふつうの人の言葉」）。中国語で発信する人向けのツールで、この README はそれ以外の方のための翻訳です。
