@@ -4,6 +4,7 @@
 
 <p align="center"><img src="docs/share.png" alt="renhua: AI-written vs human-written Chinese" width="100%"></p>
 <p align="center"><sub>Thuộc bộ <a href="https://github.com/jack-reson8/copy-that"><b>Copy That</b></a> · cài cả bộ bằng một lệnh</sub></p>
+<p align="center"><a href="https://jack-reson8.github.io/skill-skill/check/"><img src="https://img.shields.io/badge/skill%20health-100%2F100-brightgreen" alt="skill health 100/100"></a></p>
 
 **Một Claude skill viết bài Xiaohongshu, bài X, nhật ký, giới thiệu sản phẩm và trả lời bình luận bằng giọng của một người thật: xóa dấu vết AI, thêm chút chất mạng và chút hài hước.**
 

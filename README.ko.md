@@ -4,6 +4,7 @@
 
 <p align="center"><img src="docs/share.png" alt="renhua: AI-written vs human-written Chinese" width="100%"></p>
 <p align="center"><sub><a href="https://github.com/jack-reson8/copy-that"><b>Copy That</b></a> 시리즈 · 한 줄로 전체 설치</sub></p>
+<p align="center"><a href="https://jack-reson8.github.io/skill-skill/check/"><img src="https://img.shields.io/badge/skill%20health-100%2F100-brightgreen" alt="skill health 100/100"></a></p>
 
 **실제 사람의 말투로 샤오홍슈(Xiaohongshu), X, 일기, 제품 소개, 댓글 답글을 쓰는 Claude skill입니다. AI 티를 지우고, 약간의 인터넷 감성과 유머를 더합니다.**
 

@@ -4,6 +4,7 @@
 
 <p align="center"><img src="docs/share.png" alt="renhua: AI-written vs human-written Chinese" width="100%"></p>
 <p align="center"><sub><a href="https://github.com/jack-reson8/copy-that"><b>Copy That</b></a> シリーズの一つ · 1 行で全部インストール</sub></p>
+<p align="center"><a href="https://jack-reson8.github.io/skill-skill/check/"><img src="https://img.shields.io/badge/skill%20health-100%2F100-brightgreen" alt="skill health 100/100"></a></p>
 
 **実在の人の話し方で、小紅書（Xiaohongshu）・X・日記・プロダクト紹介・コメント返信を書く Claude skill。AI っぽさを消し、ネットらしいノリと少しのユーモアを足します。**
 
