@@ -38,6 +38,8 @@
       "写一条朋友圈，语气随意一点"
     ],
     "brandColor": "#C2410C",
-    "screenshots": []
+    "screenshots": [],
+    "privacyPolicyURL": "https://github.com/jack-reson8/renhua/blob/main/PRIVACY.md",
+    "termsOfServiceURL": "https://github.com/jack-reson8/renhua/blob/main/LICENSE"
   }
 }
