@@ -1,6 +1,6 @@
 # 人话 renhua · make AI write Chinese like a person
 
-English | [简体中文](README.zh-CN.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Tiếng Việt](README.vi.md) | [हिन्दी](README.hi.md)
+English | [简体中文](https://github.com/jack-reson8/renhua/blob/main/README.zh-CN.md) | [日本語](https://github.com/jack-reson8/renhua/blob/main/README.ja.md) | [한국어](https://github.com/jack-reson8/renhua/blob/main/README.ko.md) | [Tiếng Việt](https://github.com/jack-reson8/renhua/blob/main/README.vi.md) | [हिन्दी](https://github.com/jack-reson8/renhua/blob/main/README.hi.md)
 
 **A Claude skill that writes Xiaohongshu posts, X posts, diaries, product copy and comment replies in a real person's voice: no AI tells, a bit of internet flavor, a little humor.**
 
