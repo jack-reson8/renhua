@@ -3,6 +3,7 @@
 [English](README.md) | [简体中文](README.zh-CN.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Tiếng Việt](README.vi.md) | हिन्दी
 
 <p align="center"><img src="docs/share.png" alt="renhua: AI-written vs human-written Chinese" width="100%"></p>
+<p align="center"><sub><a href="https://github.com/jack-reson8/copy-that"><b>Copy That</b></a> सीरीज़ का हिस्सा · एक लाइन में पूरा सेट इंस्टॉल करें</sub></p>
 
 **एक Claude skill जो असली इंसान के लहजे में Xiaohongshu पोस्ट, X पोस्ट, डायरी, प्रोडक्ट कॉपी और कमेंट के जवाब लिखता है: AI वाली छाप हटाता है और थोड़ा इंटरनेट वाला अंदाज़ व हल्का हास्य जोड़ता है।**
 

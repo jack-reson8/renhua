@@ -3,6 +3,7 @@
 English | [简体中文](README.zh-CN.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Tiếng Việt](README.vi.md) | [हिन्दी](README.hi.md)
 
 <p align="center"><img src="docs/share.png" alt="renhua: AI-written vs human-written Chinese" width="100%"></p>
+<p align="center"><sub>Part of <a href="https://github.com/jack-reson8/copy-that"><b>Copy That</b></a> · install the whole set in one line</sub></p>
 
 **A Claude skill that writes Xiaohongshu posts, X posts, diaries, product copy and comment replies in a real person's voice: no AI tells, a bit of internet flavor, a little humor.**
 

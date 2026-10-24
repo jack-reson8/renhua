@@ -3,6 +3,7 @@
 [English](README.md) | [简体中文](README.zh-CN.md) | 日本語 | [한국어](README.ko.md) | [Tiếng Việt](README.vi.md) | [हिन्दी](README.hi.md)
 
 <p align="center"><img src="docs/share.png" alt="renhua: AI-written vs human-written Chinese" width="100%"></p>
+<p align="center"><sub><a href="https://github.com/jack-reson8/copy-that"><b>Copy That</b></a> シリーズの一つ · 1 行で全部インストール</sub></p>
 
 **実在の人の話し方で、小紅書（Xiaohongshu）・X・日記・プロダクト紹介・コメント返信を書く Claude skill。AI っぽさを消し、ネットらしいノリと少しのユーモアを足します。**
 

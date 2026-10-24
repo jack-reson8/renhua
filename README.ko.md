@@ -3,6 +3,7 @@
 [English](README.md) | [简体中文](README.zh-CN.md) | [日本語](README.ja.md) | 한국어 | [Tiếng Việt](README.vi.md) | [हिन्दी](README.hi.md)
 
 <p align="center"><img src="docs/share.png" alt="renhua: AI-written vs human-written Chinese" width="100%"></p>
+<p align="center"><sub><a href="https://github.com/jack-reson8/copy-that"><b>Copy That</b></a> 시리즈 · 한 줄로 전체 설치</sub></p>
 
 **실제 사람의 말투로 샤오홍슈(Xiaohongshu), X, 일기, 제품 소개, 댓글 답글을 쓰는 Claude skill입니다. AI 티를 지우고, 약간의 인터넷 감성과 유머를 더합니다.**
 

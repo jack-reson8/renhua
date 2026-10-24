@@ -3,6 +3,7 @@
 [English](README.md) | 简体中文 | [日本語](README.ja.md) | [한국어](README.ko.md) | [Tiếng Việt](README.vi.md) | [हिन्दी](README.hi.md)
 
 <p align="center"><img src="docs/share.png" alt="renhua: AI-written vs human-written Chinese" width="100%"></p>
+<p align="center"><sub>属于 <a href="https://github.com/jack-reson8/copy-that"><b>Copy That</b></a> 系列 · 一行命令装全套</sub></p>
 
 **一个 Claude skill：用真人的说话方式写小红书、X、日记、产品介绍、评论回复，去掉 AI 味，再加一点网感和小幽默。**
 
