@@ -27,6 +27,15 @@ git clone https://github.com/jack-reson8/renhua
 cp -R renhua/plugins/renhua/skills/renhua ~/.claude/skills/
 ```
 
+**Codex**（CLI 或 ChatGPT 桌面版）：
+
+```bash
+codex plugin marketplace add jack-reson8/renhua
+codex plugin add renhua@renhua
+```
+
+也可以把 `plugins/renhua/skills/renhua` 复制到 `~/.codex/skills/`。Skill 遵循 [Agent Skills](https://agentskills.io) 开放标准，Claude Code、Codex 以及任何能读取 SKILL.md 的 agent 都能用。
+
 ## 想换成你自己的口吻
 把 `SKILL.md` 里「他实际怎么说话」那一节换成你自己的规律：导出你和 AI 的聊天记录，只留你自己打的字，统计常用词、句长、标点习惯、评价方式。其余部分（删 AI 味、步骤、示例库、幽默手法）可以直接用。
 
